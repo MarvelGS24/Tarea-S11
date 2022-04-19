@@ -1,0 +1,17 @@
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\bin\Debug\netcoreapp3.1\ProyectoSmartCloud.exe
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\bin\Debug\netcoreapp3.1\ProyectoSmartCloud.deps.json
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\bin\Debug\netcoreapp3.1\ProyectoSmartCloud.runtimeconfig.json
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\bin\Debug\netcoreapp3.1\ProyectoSmartCloud.runtimeconfig.dev.json
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\bin\Debug\netcoreapp3.1\ProyectoSmartCloud.dll
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\bin\Debug\netcoreapp3.1\ProyectoSmartCloud.pdb
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.csproj.AssemblyReference.cache
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.csproj.GenerateResource.cache
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.AssemblyInfoInputs.cache
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.AssemblyInfo.cs
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.csproj.CoreCompileInputs.cache
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.dll
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.pdb
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.genruntimeconfig.cache
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.Menu.resources
+C:\Users\mgarros\source\repos\ProyectoSmartCloud\obj\Debug\netcoreapp3.1\ProyectoSmartCloud.IngresarCliente.resources
